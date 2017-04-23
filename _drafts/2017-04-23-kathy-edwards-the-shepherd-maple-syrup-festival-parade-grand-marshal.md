@@ -4,7 +4,7 @@ post_title: >
   Kathy Edwards, The Shepherd Maple Syrup
   Festival Parade Grand Marshal
 author: ng23055
-post_date: 2017-04-23 15:07:10
+post_date: 2017-04-23 18:34:19
 post_excerpt: ""
 layout: post
 permalink: >
